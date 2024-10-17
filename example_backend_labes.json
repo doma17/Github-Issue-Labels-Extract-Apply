@@ -1,0 +1,87 @@
+[
+    {
+      "name": "⚙ Setting",
+      "color": "e3dede",
+      "description": "개발 환경 세팅"
+    },
+    {
+      "name": "Priority : High",
+      "color": "8c001a",
+      "description": "우선순위 상"
+    },
+    {
+      "name": "Priority: Low",
+      "color": "F9966b",
+      "description": "우선순위 하"
+    },
+    {
+      "name": "Priority: Medium",
+      "color": "E77471",
+      "description": "우선순위 중"
+    },
+    {
+      "name": "Status: Done",
+      "color": "a0ffb8",
+      "description": "리뷰까지 완료 된 이슈"
+    },
+    {
+      "name": "Status: In Progress",
+      "color": "539606",
+      "description": "현재 처리 중인 이슈"
+    },
+    {
+      "name": "Status: Pending",
+      "color": "66e26c",
+      "description": "보류 중인 이슈"
+    },
+    {
+      "name": "Status: Reviewing",
+      "color": "2db78b",
+      "description": "처리하고 리뷰 중인 이슈"
+    },
+    {
+      "name": "Status: To Do",
+      "color": "757c06",
+      "description": "처리해야 되는 이슈"
+    },
+    {
+      "name": "✅ Test",
+      "color": "ccffc4",
+      "description": "test 관련"
+    },
+    {
+      "name": "✨ Feature",
+      "color": "a2eeef",
+      "description": "기능 개발"
+    },
+    {
+      "name": "🌏 Deploy",
+      "color": "C2E0C6",
+      "description": "배포 관련"
+    },
+    {
+      "name": "🐞 BugFix",
+      "color": "d73a4a",
+      "description": "Something isn't working"
+    },
+    {
+      "name": "📃 Docs",
+      "color": "1D76DB",
+      "description": "문서 작성 및 수정 (README.md 등)"
+    },
+    {
+      "name": "📬 API",
+      "color": "D4C5F9",
+      "description": "서버 API 통신 관련"
+    },
+    {
+      "name": "🔨 Refactor",
+      "color": "f29a4e",
+      "description": "코드 리팩토링"
+    },
+    {
+      "name": "🙋‍♂️ Question",
+      "color": "9ED447",
+      "description": "Further information is requested"
+    }
+  ]
